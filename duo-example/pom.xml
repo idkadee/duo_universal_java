@@ -35,6 +35,10 @@
     </scm>
 
     <dependencies>
+             <dependency>
+          <groupId>com.duosecurity</groupId>
+          <artifactId>duo-universal-sdk</artifactId>
+         <version>1.0.3</version>
         <dependency>
             <groupId>com.duosecurity</groupId>
             <artifactId>duo-universal-sdk</artifactId>
